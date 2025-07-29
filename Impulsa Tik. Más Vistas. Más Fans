@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Runaplli</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #f4f4f4;
+            color: #333;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            margin-top: 30px;
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad - Runaplli</h1>
+    <p>Fecha de última actualización: 29 de Julio de 2025</p>
+
+    <p>Esta política explica cómo Runaplli ('la App') recopila, usa y protege tu información. Al usar la App, aceptas estas prácticas.</p>
+
+    <h2>1. Datos que Recopilamos</h2>
+    <p>Para ofrecerte nuestro servicio, recopilamos:</p>
+    <ul>
+        <li>- Tu usuario de TikTok (y opcionalmente tu ID), que nos proporcionas y no verificamos.</li>
+        <li>- Mensajes de chat que envías al agente (contenido, quién lo envía, fecha/hora).</li>
+        <li>- Datos de uso anónimos (ej. cómo usas la App), a través de Firebase Analytics. Estos datos no te identifican personalmente.</li>
+    </ul>
+
+    <h2>2. Cómo Usamos los Datos</h2>
+    <p>Usamos tu información exclusivamente para:</p>
+    <ul>
+        <li>- Ofrecerte soporte y consejos personalizados sobre tu cuenta de TikTok (tanto los gratuitos iniciales como los específicos de pago).</li>
+        <li>- Mejorar nuestro servicio y la experiencia en la App.</li>
+    </ul>
+
+    <h2>3. Compartir Datos</h2>
+    <ul>
+        <li>- Con nuestro agente de soporte: Tus mensajes y el usuario de TikTok son visibles para nuestro agente.</li>
+        <li>- Con Firebase (Google): Usamos los servicios de Google Firebase (Firestore y Autenticación) para almacenar y gestionar tus datos de chat de forma segura.</li>
+        <li>- No vendemos ni compartimos tus datos personales con terceros para marketing o publicidad.</li>
+    </ul>
+
+    <h2>4. Seguridad</h2>
+    <p>Usamos la autenticación anónima de Firebase y almacenamos tus datos de chat de forma segura en Firebase Firestore, con reglas que protegen tu información y limitan el acceso solo a usuarios autenticados.</p>
+
+    <h2>5. Retención de Datos y Tus Derechos</h2>
+    <ul>
+        <li>- Guardamos tus datos (mensajes, perfil) mientras uses la App para el servicio.</li>
+        <li>- Dado que no hay cuentas formales, te pedimos no compartir información personal sensible en el chat. Si necesitas hacer una consulta sobre tus datos, contáctanos.</li>
+    </ul>
+
+    <h2>6. Cambios en Esta Política</h2>
+    <p>Podemos actualizar esta política. Te notificaremos sobre cambios importantes publicando la nueva versión aquí.</p>
+
+  <div class="contact-info">
+    <h2>Contacto</h2>
+    <p>Si tienes preguntas sobre esta política, contáctanos a:</p>
+    <p>Correo electrónico: <a href="mailto:cruzchoquejcristian@gmail.com" style="color: #007bff;">cruzchoquejcristian@gmail.com</a></p>
+</div>
+</body>
+</html>
